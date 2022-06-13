@@ -1,0 +1,9 @@
+경진 대회 용 fine tuning 관련 data 링크
+
+1) 회전, 확대 증강 데이터 링크 -> 623,230(class 당 약 1만 개)
+  data : https://drive.google.com/file/d/1izUpS5ARv8t8uANt7HLTAp2sBpAL4YBE/view?usp=sharing
+  label : https://drive.google.com/file/d/1lVT4fVfcyr27YUACj6VChM_HOL4deIWS/view?usp=sharing
+  
+2) 굵기 변환 증강 데이터 링크 -> 623,230(class 당 약 1만 개)
+  data : https://drive.google.com/file/d/1-0mBpK__3G0JvGD9ylLk93L-Rca3Ifrw/view?usp=sharing
+  label : https://drive.google.com/file/d/1-598FhjA5rC-gDBs-FecbSQ2pb3EWqgV/view?usp=sharing
